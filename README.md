@@ -32,13 +32,13 @@ The dashboard provides insights into **regional performance, category efficiency
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview
-![Overview](dashboard_overview.png)
+![Overview](dashboard_overview.png.jpeg)
 
 ### 🔹 Trends Analysis
-![Trends](dashboard_trends.png)
+![Trends](dashboard_trends.png.jpeg)
 
 ### 🔹 Detailed Analysis
-![Analysis](dashboard_analysis.png)
+![Analysis](dashboard_analysis.png.jpeg)
 
 ---
 
